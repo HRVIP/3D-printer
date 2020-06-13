@@ -24,6 +24,8 @@ A tangled PLA spool can cause significant physical damage to the machine.
 [This video](https://www.youtube.com/watch?v=lE9LchCtKL4) will illustrate how to untangle and unknot your spool if this happens.
 Use binder clips and clean paper towels/wipes to prevent tangling in the future, as illustrated in [this MakerGear Forum thread](http://forum.makergear.com/viewtopic.php?f=11&t=2772&p=17361#p17361).
 
+![Image](images/Clips-002.jpg) ![Image](images/Clips-003.jpg)
+
 
 Clogged Nozzle
 --------------
