@@ -19,10 +19,11 @@ If you receive a brand new spool that is contaminated, contact MakerGear support
 
 _**Tangled PLA spools:**_
 
-PLA spools can tangle when the end of the thread crossed underneath a spooled thread, typically just after the end is removed from the machine.
+PLA spools can tangle when the end of the thread crossed underneath a spooled thread.
+This usually happens just after the end is removed from the printer.
 A tangled PLA spool can cause significant physical damage to the machine.
 [This video](https://www.youtube.com/watch?v=lE9LchCtKL4) will illustrate how to untangle and unknot your spool if this happens.
-Use binder clips and clean paper towels/wipes to prevent tangling in the future, as illustrated in [this MakerGear Forum thread](http://forum.makergear.com/viewtopic.php?f=11&t=2772&p=17361#p17361).
+Use binder clips and clean paper towels/wipes to prevent tangling in the future, as illustrated in [this MakerGear Forum thread](http://forum.makergear.com/viewtopic.php?f=11&t=2772&p=17361#p17361) and in the images below:
 
 ![Image](images/Clips-002.jpg) ![Image](images/Clips-003.jpg)
 
@@ -31,19 +32,20 @@ Clogged Nozzle
 --------------
 
 Dust and debris can get lodged in the nozzle and reduce, skew, or wholly prevent easy and consistent extrusion.
-Use the ‘Cold Pull’ method to clean the nozzle (possibly have to repeat several times).
-Old PLA can cause similar symptoms since it absorbs water (see above), which will in turn vaporize inside the nozzle and form bubbles which will resist extrusion
-Only replace the nozzle if the Cold Pull method does not work (assuming PLA is good)
-DO NOT INSERT ANY FOREIGN OBJECT IN THE NOZZLE IN ATTEMPT TO UNCLOG
-Doing so many physically scratch or otherwise damage the nozzle, resulting in poor performance, or worse, introduce even more debris
+Use the **‘Cold Pull’** method described in [this MakerGear article](https://makergear.zendesk.com/hc/en-us/articles/115005186283-The-Cold-Pull-Nozzle-Cleaning-Method) to clean the nozzle (you may have to repeat this procedure several times).
+Old PLA can cause similar symptoms since it absorbs water (see above), which will in turn vaporize inside the nozzle and form bubbles which will resist extrusion.
+Only replace the nozzle if the Cold Pull method does not work (assuming PLA is good).
+**DO NOT INSERT ANY FOREIGN OBJECT IN THE NOZZLE IN ATTEMPT TO UNCLOG.**
+Doing so may physically scratch or otherwise damage the nozzle, resulting in poor performance, or worse, introduce even more debris.
 
 
 Replacing Filament
 ------------------
 
-Suggest performing a ‘Cold Pull’ every time you remove and replace the filament.
-Extruder feed gear is slightly misaligned from the nozzle feed hole -- requires a flat, dull tool to gently push the filament perpendicular to the feed path to align it with the nozzle feed hole.
-MakerGear official YouTube channel has a tutorial for swapping filament.
+We suggest performing a ‘Cold Pull’ every time you remove and replace the filament.
+Note that the extruder feed gear is slightly misaligned from the nozzle feed hole.
+If the new filament does not feed directly into the nozzle and instead strikes to the side, you will need a flat, dull tool to gently push the filament and make it align it with the nozzle feed hole.
+[This video](https://www.youtube.com/watch?v=Ni7xN4616No) from the MakerGear official YouTube channel is a tutorial for swapping filament.
 
 
 Bed Leveling
