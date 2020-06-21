@@ -42,27 +42,41 @@ Doing so may physically scratch or otherwise damage the nozzle, resulting in poo
 Replacing Filament
 ------------------
 
-We suggest performing a ‘Cold Pull’ every time you remove and replace the filament.
-Note that the extruder feed gear is slightly misaligned from the nozzle feed hole.
-If the new filament does not feed directly into the nozzle and instead strikes to the side, you will need a flat, dull tool to gently push the filament and make it align it with the nozzle feed hole.
+It's suggested that you perform a ‘Cold Pull’ every time you remove and replace the filament.
+Note that for our printer, the [**V4 Filament Drive**](https://www.makergear.com/collections/parts/products/filament-drive) (the structure surrounding the feed gear) is slightly misaligned from the feed hole of the [**V4 Hot End**](https://www.makergear.com/collections/parts/products/hot-end) (the top of the V4 Hot End extruder).
+
+If the new filament does not feed directly into the V4 Hot End and instead strikes to the side, you will need a flat, dull tool to gently push the filament and make it align it with the nozzle feed hole.
+A flat head screwdriver or plastic scraping tool is usually sufficient.
+Once the filament is properly aligned, it will not require any more outside guidance.
 [This video](https://www.youtube.com/watch?v=Ni7xN4616No) from the MakerGear official YouTube channel is a tutorial for swapping filament.
 
 
 Bed Leveling
 ------------
-Three adjustment screws underneath the bed control bed level
-The screws are laid out in an isosceles triangle formation. Adjusting one screw will result in the platform rotating about a line formed by the other two screws. Keep this geometry in mind when adjusting the platform.
-These control three axes (2 in rotation, 1 in translation)
-“Roll” (Rotation about the Y-axis, which fronts “front to back” when facing the printer)
-“Pitch” (Rotation about the X-axis, which runs “left to right” when facing the printer)
-Vertical height (Z)
-Bed leveling is a time-consuming process and may take upward of 1-2 hours if you’re just learning.
-Use the process outlined in this video to go about properly leveling the bed
-The nozzle should sit approximately 0.1mm above the bed when the Z-axis is zeroed. This distance will be assured by using the paper test outlined in the previous video.
-NOTE 1: The adjustment screws tend to shake themselves loose, especially when the printer is performing lots of fast, short movements inducing a large vibration mode. Use a dab of hot glue on the screw heads (after they are adjusted to their desired position) to keep them in place.
-NOTE 2: If the bed is level but the zeroed Z-axis distance is incorrect, you can do one of two things:
-Raise/Lower the entire bed by adjusting all three screws by the same amount
-Raise/Lower the Z hard-stop screw (not recommended)
+Three adjustment screws underneath the bed control bed level.
+The screws are laid out in an isosceles triangle formation, with the longest side parallel to the Y-axis and running down the center of the build plate.
+Adjusting one screw will result in the platform rotating about a line formed by the other two screws.
+Keep this geometry in mind when adjusting the platform.
+Together, these three screws control three degrees of freedom (2 in rotation, 1 in translation) of the build plate.
+“Roll” (Rotation about the Y-axis, which runs “front to back” when facing the printer), “Pitch” (Rotation about the X-axis, which runs “left to right” when facing the printer), and vertical height (Z).
+
+
+Bed leveling is a time-consuming process and may take upward of 1-2 hours if you’re just learning, so plan accordingly.
+It will get faster with practice.
+Use the process outlined in [this video](https://www.youtube.com/watch?v=haoTCmkF5to) to go about properly leveling the bed.
+
+When properly leveled and zeroed, the nozzle should sit between 0.0 and 0.1 mm above the bed.
+This distance can be crudely measured by using a sheet of printer paper (called "the paper test") as outlined in the previously-linked video.
+
+**NOTE 1:**
+The adjustment screws tend to shake themselves loose, especially when the printer is performing lots of fast, short movements which induce a large high-frequency vibration mode. 
+Use a dab of hot glue on the screw heads (after they are adjusted to their desired position) to keep them in place.
+This glue can be easily peeled away if future adjustments are necessary.
+
+**NOTE 2:**
+If the bed is level but the zeroed Z-axis distance is incorrect, you can do one of two things:
+- Raise/Lower the entire bed by adjusting all three bed leveling screws by the same amount (preferred)
+- Raise/Lower the Z hard-stop screw (not recommended)
 
 
 
